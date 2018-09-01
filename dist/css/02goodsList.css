@@ -1,0 +1,173 @@
+#row4 .div-center {
+  width: 1190px;
+  margin: 0 auto; }
+  #row4 .div-center .goods-left {
+    float: left;
+    width: 198px; }
+    #row4 .div-center .goods-left .nav-3 {
+      border: 1px solid #ddd; }
+      #row4 .div-center .goods-left .nav-3 h3 {
+        height: 36px;
+        font-size: 12px;
+        line-height: 36px;
+        color: #333;
+        background: #ededed;
+        padding-left: 15px; }
+      #row4 .div-center .goods-left .nav-3 ul {
+        padding: 7px 0 10px 15px; }
+        #row4 .div-center .goods-left .nav-3 ul li a {
+          font-size: 12px;
+          line-height: 26px;
+          color: #333; }
+    #row4 .div-center .goods-left .news-comment {
+      border: 1px solid #ddd;
+      margin-top: 10px; }
+      #row4 .div-center .goods-left .news-comment h3 {
+        height: 36px;
+        font-size: 12px;
+        line-height: 36px;
+        color: #333;
+        background: #ededed;
+        padding-left: 15px; }
+      #row4 .div-center .goods-left .news-comment ol {
+        padding: 7px 10px; }
+        #row4 .div-center .goods-left .news-comment ol li {
+          border-bottom: 1px dotted #ccc;
+          padding-bottom: 7px;
+          margin-top: 10px; }
+          #row4 .div-center .goods-left .news-comment ol li dl {
+            height: 80px; }
+            #row4 .div-center .goods-left .news-comment ol li dl dt {
+              width: 60px;
+              height: 60px;
+              border: 1px solid #ddd;
+              float: left; }
+              #row4 .div-center .goods-left .news-comment ol li dl dt img {
+                width: 100%;
+                height: 100%; }
+            #row4 .div-center .goods-left .news-comment ol li dl dd {
+              float: left;
+              margin-left: 10px;
+              width: 98px; }
+              #row4 .div-center .goods-left .news-comment ol li dl dd h4 {
+                font-size: 12px;
+                line-height: 20px;
+                color: #0051ac; }
+              #row4 .div-center .goods-left .news-comment ol li dl dd span {
+                font-size: 12px;
+                line-height: 20px;
+                color: #333; }
+              #row4 .div-center .goods-left .news-comment ol li dl dd i {
+                font-size: 12px;
+                line-height: 20px;
+                color: #333; }
+          #row4 .div-center .goods-left .news-comment ol li p {
+            font-size: 12px;
+            line-height: 20px;
+            color: #333; }
+  #row4 .div-center .goods-right {
+    padding-left: 10px;
+    float: left;
+    overflow: hidden;
+    width: 980px; }
+    #row4 .div-center .goods-right .right-list {
+      border: 1px solid #dcdcdc;
+      width: 978px; }
+      #row4 .div-center .goods-right .right-list li {
+        border-bottom: 1px dotted #ccc;
+        height: 40px; }
+        #row4 .div-center .goods-right .right-list li h3 {
+          font-size: 12px;
+          line-height: 40px;
+          color: #333;
+          padding-left: 40px;
+          width: 138px;
+          float: left; }
+        #row4 .div-center .goods-right .right-list li p {
+          float: left; }
+          #row4 .div-center .goods-right .right-list li p span {
+            font-size: 12px;
+            line-height: 40px;
+            color: #0054bb;
+            padding-right: 20px; }
+    #row4 .div-center .goods-right .goods-lists-1 .h2-title {
+      height: 40px;
+      background: #f1f2f1;
+      line-height: 40px;
+      padding-left: 5px;
+      margin-bottom: 5px; }
+      #row4 .div-center .goods-right .goods-lists-1 .h2-title .right-btn {
+        width: 55px;
+        height: 27px;
+        border: 1px solid #ccc;
+        font-size: 12px;
+        line-height: 27px;
+        color: #333; }
+      #row4 .div-center .goods-right .goods-lists-1 .h2-title span {
+        font-size: 12px;
+        line-height: 40px;
+        color: #333;
+        padding-left: 20px; }
+        #row4 .div-center .goods-right .goods-lists-1 .h2-title span input {
+          margin-right: 3px;
+          position: relative;
+          top: 2px; }
+      #row4 .div-center .goods-right .goods-lists-1 .h2-title i {
+        font-size: 12px;
+        line-height: 40px;
+        color: #333;
+        float: right;
+        padding-right: 10px; }
+        #row4 .div-center .goods-right .goods-lists-1 .h2-title i b {
+          font-weight: 900; }
+    #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 {
+      width: 202px;
+      height: 390px;
+      border: 1px solid #fff;
+      border-bottom: 1px solid #ccc;
+      padding: 0 16px;
+      position: relative;
+      margin-top: 10px;
+      float: left; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dt {
+        width: 202px;
+        height: 220px; }
+        #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dt img {
+          width: 100%;
+          height: 100%; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd h4 {
+        font-size: 12px;
+        line-height: 24px;
+        color: #333;
+        margin: 10px 0 2px; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd .p_1 {
+        font-size: 12px;
+        line-height: 20px;
+        color: #d03845; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd .p_2 span:first-of-type {
+        font-size: 12px;
+        line-height: 12px;
+        color: #cc0000;
+        font-weight: 900; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd .p_2 span:nth-of-type(2) {
+        font-size: 12px;
+        line-height: 12px;
+        color: #fff;
+        padding: 2px;
+        background: #4ca0ff;
+        float: right; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd a {
+        font-size: 12px;
+        color: #fff;
+        line-height: 20px;
+        display: block;
+        width: 80px;
+        text-align: center;
+        background: red; }
+      #row4 .div-center .goods-right .goods-lists-1 .goods-particulars-1 dd .p_3 {
+        font-size: 12px;
+        line-height: 30px;
+        color: #0051ac;
+        display: block;
+        position: absolute;
+        bottom: 0; }

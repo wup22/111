@@ -1,0 +1,56 @@
+#center_cart{
+	.center_cart{
+		width: 1190px;margin:0 auto;
+		.title{
+			height: 55px;
+			span{font-size: 12px;line-height: 55px;color:#333;}
+			.span_1{padding-left:120px;}
+			.span_2{padding-left:430px;}
+			.span_3{padding-left:158px;}
+			.span_4{padding-left:138px;}
+			.span_5{padding-left:100px;}
+		}
+		.list{
+			border:1px solid #abadb3;width: 1190px;
+			.li_1{
+				height:80px;float:left;padding:15px 0;border-bottom:1px solid #abadb3;width: 100%;
+				.cart_img{
+					width:80px;height:80px;padding:0 20px;float:left;
+					img{width: 100%;height: 100%;}
+				}
+				.goods_title{
+					width: 450px;float:left;
+					span{font-size: 12px;line-height: 24px;color:#333;}
+				}
+				.price{
+					width: 60px;float:left;
+					span{font-size: 12px;line-height: 24px;color:#333;text-align: center;}
+				}
+				.goods_num{
+					width: 190px;padding-left:130px;padding-top:5px;float:left;
+					.minus{width:20px;height:20px;border:1px solid #a9a9a9;text-align:center;padding:0;}
+					.goods_sum{
+						width: 33px;height:20px;border:1px solid #a9a9a9;text-align: center;
+					}
+					.plus{width:20px;height:20px;border:1px solid #a9a9a9;text-align:center;padding:0;}
+				}
+				.money{
+					float:left;width: 138px;
+					span{font-size: 12px;line-height: 24px;color:#e02f26;}
+				}
+				.delete{
+					float:left;
+					span{font-size: 12px;line-height: 24px;color:#333;cursor:pointer;}
+				}
+			}
+		}
+		.footer{
+			height:50px;
+			.footer-sum{
+				font-size:24px;color:#333;line-height: 50px;
+				i{border:1px solid #d00;padding: 2px;color:#d00;font-size:30px;}
+			}
+			.footer-money{font-size:24px;color:#d00;line-height: 50px;}
+		}
+	}
+}
